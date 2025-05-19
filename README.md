@@ -1,3 +1,6 @@
+<font color="red">**flagdata/cleaner/text_cleaner.py**, simply run the file with python to clean the data, if data overlarge, try streaming way with multiprocessig to deal with the disk oom problem.(Usually the size of data can reach 30T~)</font>
+
+
 <div id=top align="center">
 
 ![FlagData](flagdata_logo.png)
